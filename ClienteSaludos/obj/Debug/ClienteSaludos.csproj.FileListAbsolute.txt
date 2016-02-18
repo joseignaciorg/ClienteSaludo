@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteSaludos\ClienteSaludos\bin\Debug\ClienteSaludos.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteSaludos\ClienteSaludos\bin\Debug\ClienteSaludos.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteSaludos\ClienteSaludos\bin\Debug\ClienteSaludos.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteSaludos\ClienteSaludos\obj\Debug\ClienteSaludos.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteSaludos\ClienteSaludos\obj\Debug\ClienteSaludos.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteSaludos\ClienteSaludos\obj\Debug\ClienteSaludos.pdb
