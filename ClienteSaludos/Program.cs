@@ -15,7 +15,7 @@ namespace ClienteSaludos
             var saludo=new Saludo() {Idioma = "tr",Nombre = "Nacho"};
 
             try
-            {
+            {//hola
                 var r = s.Saludar(saludo);
                 Console.WriteLine(r);
             }
